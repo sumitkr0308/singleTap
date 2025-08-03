@@ -1,0 +1,17 @@
+Monday:
+  - eat  [Pending]
+  - code [Completed]
+  - study [Pending]
+
+Tuesday:
+
+Wednesday:
+
+Thursday:
+
+Friday:
+
+Saturday:
+
+Sunday:
+
